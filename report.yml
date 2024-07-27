@@ -4,12 +4,13 @@ city: New York
 is_student: true
 grade:
   - subject: Math
-    grade: Y
+    grade: G
   - subject: English
-    grade: Y
+    grade: G
   - subject: Computer
-    grade: Y+    
+    grade: G+    
   - subject: Science
-    grade: Y+
+    grade: G+
   - subject: physical
-    grade: Y+
+    grade: G+
+
